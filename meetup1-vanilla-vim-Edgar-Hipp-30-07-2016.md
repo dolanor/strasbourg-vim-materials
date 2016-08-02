@@ -23,6 +23,7 @@ Colorschemes:
 -	:colorscheme industry en builtin (mais quand meme bien moche)
 -	:colorscheme seoul256 https://github.com/junegunn/seoul256.vim
 -	:colorscheme nofrils-dark (mon thème minimaliste) https://github.com/robertmeta/nofrils
+-	:colorscheme solarized (un thème qui selon l'auteur est étudié pour diminuer la fatigue visuelle) https://github.com/altercation/vim-colors-solarized
 
 Débutant
 ========
